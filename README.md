@@ -1,1 +1,0 @@
-# CoderHouse-SQL-Entrega1
